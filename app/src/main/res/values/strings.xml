@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Todos App</string>
+    <string name="toolbar_search">Search</string>
+</resources>
